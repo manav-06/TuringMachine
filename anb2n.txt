@@ -1,0 +1,13 @@
+aaabbbbbb
+q0 a x r q1
+q1 a a r q1
+q1 y y r q1
+q1 b y r q2
+q2 b y l q3
+q3 y y l q3
+q3 a a l q3
+q3 x x r q0
+q0 y y r q4
+q4 y y r q4
+q4 _ _ l q5
+accept q5
